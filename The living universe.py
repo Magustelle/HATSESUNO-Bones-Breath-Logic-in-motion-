@@ -1,4 +1,29 @@
 The physics of how matter organizes itself.
+
+# GREATSCOTT™ ECOSYSTEM
+## Scientific Computing · Mathematical Languages · Computational Art
+
+**Copyright © 2026 Darrell Lee Stiltner. All rights reserved, except as expressly licensed.**
+
+**License:** GreatScott™ Ecosystem Public Noncommercial License
+
+This project contains original computational research, mathematical modeling systems, scientific software, executable languages, and/or computational artwork.
+
+**Public permissions:** Noncommercial use, study, modification, and redistribution are permitted only under the applicable GreatScott™ Ecosystem Public Noncommercial License and project-specific notices.
+
+**Commercial use:** Requires a separate written commercial license from the rights holder.
+
+**AI and machine-learning use:** Training, fine-tuning, dataset construction, and related model-development uses are restricted as specified in the applicable license, subject to governing law.
+
+**Intellectual property:** No patent or trademark rights are expressly granted. Third-party materials remain subject to their respective licenses.
+
+**Scientific status:** Computational models and experimental implementations are not representations of universal scientific validation unless independently established.
+
+**Full license:** See `LICENSE` and the applicable project notices.
+
+*GreatScott™ — Mathematics, Science, Computation, and the Architecture of Connection.*
+
+
 #!/usr/bin/env python3
 """The Living Universe — executable cumulative G0–G9 Python prototype.
 
