@@ -1,4 +1,4 @@
-
+The physics of how matter organizes itself.
 #!/usr/bin/env python3
 """The Living Universe — executable cumulative G0–G9 Python prototype.
 
